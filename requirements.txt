@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn==1.6.1
+matplotlib
+seaborn
+joblib
+kagglehub
+jupyter
+fastapi
+uvicorn
+pydantic
